@@ -11,28 +11,28 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Mannooma &theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mannooma &theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannooma &theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mannooma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mannooma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+<div align="left">
+
 
 ###
 
-<br clear="both">
+# 🏆 GitHub Trophies
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
 
-<img src="https://raw.githubusercontent.com/Mannooma/Mannooma/output/snake.svg" alt="Snake animation" />
-
-###
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Mannooma &theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ My fav Dev Quote ✨️
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mannooma &icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## You Can make me happy 😊
   
