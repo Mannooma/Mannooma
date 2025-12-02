@@ -4,7 +4,7 @@
 
 <!-- Animated Typing Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Minecraft+Bedrock+Developer;Web Developer;Content+Creator;Mcpe+Add-0ns+Developer;UI/UX+Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Minecraft+Bedrock+Developer;Web+Developer;Content+Creator;Mcpe+Add-0ns+Developer;UI/UX+Designer" alt="Typing Animation" />
 </div>
 
 # About Me :
