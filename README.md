@@ -4,7 +4,7 @@
 
 <!-- Animated Typing Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Minecraft+Bedrock+Developer;Add-on+Architect;Behavior+Pack+Specialist;Scripting+Sorcerer;UI/UX+Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Minecraft+Bedrock+Developer;Web Developer;Content+Creator;Mcpe+Add-0ns+Developer;UI/UX+Designer" alt="Typing Animation" />
 </div>
 
 # About Me :
@@ -35,9 +35,12 @@ With every project, I aim to make it better than before
 
 <div align="left">
 
+
 # Active Snake (trying to tell you I'm active :>)
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 
+
+# Contact Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VMrN8AnTEB) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mony.100k) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mannooma_0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mannooma_0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mannooma.ads@gmail.com)
