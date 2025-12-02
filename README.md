@@ -6,6 +6,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Minecraft+Bedrock+Developer;Add-on+Architect;Behavior+Pack+Specialist;Scripting+Sorcerer;UI/UX+Designer" alt="Typing Animation" />
 </div>
+
 # About Me :
 ```
 My name is Ahmed, also known as Mannooma or simply Mony, and I’ve been passionate about technology for as long as I can remember. From a young age, I found myself drawn to coding and exploring how things work behind the scenes. That early curiosity grew into a deep dedication to software development and digital creation.
