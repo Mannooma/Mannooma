@@ -1,23 +1,24 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/minecraft-banner.gif" alt="Minecraft Bedrock Developer" width="800">
+</p>
+
+<!-- Animated Typing Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Minecraft+Bedrock+Developer;Add-on+Architect;Behavior+Pack+Specialist;Scripting+Sorcerer;UI/UX+Designer" alt="Typing Animation" />
+</div>
 # About Me :
+```
 My name is Ahmed, also known as Mannooma or simply Mony, and I’ve been passionate about technology for as long as I can remember. From a young age, I found myself drawn to coding and exploring how things work behind the scenes. That early curiosity grew into a deep dedication to software development and digital creation.
 
 Today, I’m a content creator and an aspiring developer who constantly works to improve, learn, and push my skills forward. I enjoy building projects, experimenting with ideas, and staying connected to the growing world of tech. My favorite languages are JavaScript, CSS, and HTML, and I use them to bring concepts to life in clean, functional, and creative ways.
 
 I actively publish and collaborate on several Websites, including:
 
-MCPEDL
+(MCPEDL,ModBay,MinecraftPlanet,CurseForge)
+With every project, I aim to make it better than before
+ ```
 
-ModBay
-
-MinecraftPlanet
-
-CurseForge
-
-With every project, I aim to deliver something meaningful, polished, and genuinely useful to the community
- 
-
-
-# GitHub Stats:
+# My-Stats:
 
 
 <div align="center">
@@ -28,6 +29,10 @@ With every project, I aim to deliver something meaningful, polished, and genuine
 
 
 <div align="left">
+
+# Random Snake
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 
 ## Contact :
 
