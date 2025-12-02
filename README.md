@@ -3,7 +3,7 @@ My name is Ahmed, also known as Mannooma or simply Mony, and I’ve been passion
 
 Today, I’m a content creator and an aspiring developer who constantly works to improve, learn, and push my skills forward. I enjoy building projects, experimenting with ideas, and staying connected to the growing world of tech. My favorite languages are JavaScript, CSS, and HTML, and I use them to bring concepts to life in clean, functional, and creative ways.
 
-I actively publish and collaborate on several well-known platforms, including:
+I actively publish and collaborate on several Websites, including:
 
 MCPEDL
 
